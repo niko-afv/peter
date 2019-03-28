@@ -1,0 +1,25 @@
+/node_modules
+/public/*
+/storage/*.key
+/vendor
+
+
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+
+
+!/public/index.php
+!/public/robots.txt
+!/public/web.config
+
+
+#Environment file
+.env
+
+#PhpStorm folder
+.idea
+.DS_Store
